@@ -46,7 +46,7 @@ void customer::Info()       // In this function we take the data of a customer
 	 cin.getline(Adress, 79);
 
 	cout << endl;
-	cout << " -----------------------------------          Thanks for Providing Your Data         -----------------------------------" << endl;
+	cout << " ----------------------------------          Thanks for Providing Your Data         -----------------------------------" << endl;
 	cout << endl;
 	cout << endl;
 }
