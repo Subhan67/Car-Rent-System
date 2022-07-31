@@ -1,0 +1,32 @@
+﻿  admin.cpp
+  booking.cpp
+  customer.cpp
+  governmentTax.cpp
+  person.cpp
+  Source.cpp
+  vehicle.cpp
+C:\Users\Ali Subhan\Desktop\car rent system\vehicle.cpp(114,26): error C2440: '=': cannot convert from 'const char [16]' to 'char *'
+C:\Users\Ali Subhan\Desktop\car rent system\vehicle.cpp(114,9): message : Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+C:\Users\Ali Subhan\Desktop\car rent system\vehicle.cpp(117,22): error C2440: '=': cannot convert from 'const char [8]' to 'char *'
+C:\Users\Ali Subhan\Desktop\car rent system\vehicle.cpp(117,13): message : Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+C:\Users\Ali Subhan\Desktop\car rent system\vehicle.cpp(124,24): error C2440: '=': cannot convert from 'const char [14]' to 'char *'
+C:\Users\Ali Subhan\Desktop\car rent system\vehicle.cpp(124,9): message : Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+C:\Users\Ali Subhan\Desktop\car rent system\vehicle.cpp(127,22): error C2440: '=': cannot convert from 'const char [8]' to 'char *'
+C:\Users\Ali Subhan\Desktop\car rent system\vehicle.cpp(127,13): message : Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+C:\Users\Ali Subhan\Desktop\car rent system\vehicle.cpp(158,23): error C2440: '=': cannot convert from 'const char [13]' to 'char *'
+C:\Users\Ali Subhan\Desktop\car rent system\vehicle.cpp(158,9): message : Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+C:\Users\Ali Subhan\Desktop\car rent system\vehicle.cpp(161,22): error C2440: '=': cannot convert from 'const char [8]' to 'char *'
+C:\Users\Ali Subhan\Desktop\car rent system\vehicle.cpp(161,13): message : Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+C:\Users\Ali Subhan\Desktop\car rent system\vehicle.cpp(169,23): error C2440: '=': cannot convert from 'const char [13]' to 'char *'
+C:\Users\Ali Subhan\Desktop\car rent system\vehicle.cpp(169,9): message : Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+C:\Users\Ali Subhan\Desktop\car rent system\vehicle.cpp(172,22): error C2440: '=': cannot convert from 'const char [8]' to 'char *'
+C:\Users\Ali Subhan\Desktop\car rent system\vehicle.cpp(172,13): message : Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+C:\Users\Ali Subhan\Desktop\car rent system\vehicle.cpp(202,24): error C2440: '=': cannot convert from 'const char [14]' to 'char *'
+C:\Users\Ali Subhan\Desktop\car rent system\vehicle.cpp(202,9): message : Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+C:\Users\Ali Subhan\Desktop\car rent system\vehicle.cpp(205,25): error C2440: '=': cannot convert from 'const char [11]' to 'char *'
+C:\Users\Ali Subhan\Desktop\car rent system\vehicle.cpp(205,13): message : Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+C:\Users\Ali Subhan\Desktop\car rent system\vehicle.cpp(212,26): error C2440: '=': cannot convert from 'const char [16]' to 'char *'
+C:\Users\Ali Subhan\Desktop\car rent system\vehicle.cpp(212,9): message : Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+C:\Users\Ali Subhan\Desktop\car rent system\vehicle.cpp(215,25): error C2440: '=': cannot convert from 'const char [11]' to 'char *'
+C:\Users\Ali Subhan\Desktop\car rent system\vehicle.cpp(215,13): message : Conversion from string literal loses const qualifier (see /Zc:strictStrings)
+  Generating Code...
